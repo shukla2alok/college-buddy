@@ -1,6 +1,6 @@
 # Project Name
 
-A simple HTML project for creating a personal webpage.
+A simple HTML project for helping us to contribute and learn for the open-source contribution and this can be a reference for us in future so that we feel connected everytime.
 
 ## Overview
 
