@@ -7,6 +7,11 @@ A simple HTML project for helping us to contribute and learn for the open-source
 This repository provides a basic HTML template for creating a personal webpage. It includes an index.html file that you can customize with your own information.
 ## Steps to Contribute
 Thank you for considering contributing to our project! Follow these steps to contribute:
+**before these steps ensure you have git installed on your system**
+-check git version
+```bash
+git --version
+```
 1. **Fork the Repository:**
    - Click on the "Fork" button on the top right corner of the repository page to create a copy of the repository in your GitHub account.
 
